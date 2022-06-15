@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Pruthviraj26/logic/issues"
   },
-  "homepage": "https://github.com/Pruthviraj26/logic#readme"
+  "homepage": "https://github.com/Pruthviraj26/logic#readme",
+  "publishConfig": {
+    "@pruthviraj848:registry": "https://npm.pkg.github.com"
+  }
 }
